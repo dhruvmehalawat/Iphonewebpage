@@ -10,8 +10,7 @@
 }
 
 * {
-  margin: 0;
-  padding: 0;
+ 
   box-sizing: border-box;
 }
 
@@ -26,11 +25,11 @@ body {
 }
 
 .nav-header {
-  padding-top: 1.25rem;
-  padding-bottom: 1.25rem;
+  padding-top: 5px;
+  padding-bottom: 5px;
   
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
+  padding-left: 5px;
+  padding-right: 5px;
 
 
 }

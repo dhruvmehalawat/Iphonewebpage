@@ -9,7 +9,7 @@ const Nav = () => {
           width={14}
           height={18}
         />
-        <div className="flex flex-1 items-center justify-center gap-8 max-sm:hidden">
+        <div className="flex flex-1 items-center justify-center gap-3 max-sm:hidden">
           {navLists.map((list, index) => (
             <div
               key={index}
